@@ -10,3 +10,5 @@ My name is *Yuliana*
 > [Repeat Animal Parade](https://www.youtube.com/watch?v=K6L2rbfo_Dc) 
 
 > [Nested Repeat Mouse](https://youtu.be/Yl2k6-YCJUM) 
+
+> [Events: Monkey and Banana](https://youtu.be/ZHX--9gMz7I) 
