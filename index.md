@@ -11,4 +11,4 @@ My name is *Yuliana*
 
 > [Nested Repeat Mouse](https://youtu.be/Yl2k6-YCJUM) 
 
-> [Events: Monkey and Banana](https://youtu.be/ZHX--9gMz7I) 
+> [Sequences: Monkey and Banana](https://youtu.be/ZHX--9gMz7I) 
