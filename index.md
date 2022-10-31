@@ -14,3 +14,6 @@ My name is *Yuliana*
 > [Sequences: Monkey and Banana](https://youtu.be/ZHX--9gMz7I) 
 
 > [Variable and Events Shapes](https://youtu.be/8dkoG1ovfH0) 
+
+> [Conditional Repeat Soccer Game](https://youtu.be/goJUUyo4mSA) 
+
