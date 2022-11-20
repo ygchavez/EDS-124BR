@@ -21,3 +21,4 @@ My name is *Yuliana*
 
 > [Penguin Nested if Elses](https://youtu.be/vjNmuU-QSug) 
 
+> [Compound Conditionals](https://youtu.be/nTVtbiRblgQ) 
