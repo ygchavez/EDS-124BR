@@ -24,3 +24,5 @@ My name is *Yuliana*
 > [Compound Conditionals](https://youtu.be/nTVtbiRblgQ) 
 
 > [Abstraction Blocks](https://youtu.be/PFFU0tFCsF0) 
+
+> [Lists](https://youtu.be/PFFU0tFCsF0) 
