@@ -25,4 +25,4 @@ My name is *Yuliana*
 
 > [Abstraction Blocks](https://youtu.be/PFFU0tFCsF0) 
 
-> [Lists](https://youtu.be/PFFU0tFCsF0) 
+> [Lists](https://www.youtube.com/watch?v=vbscmvj2b4c) 
